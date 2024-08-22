@@ -1,7 +1,7 @@
 public class reverseTheArrayElements {
     public static void main(String[] args) {
         int [] arr={1,2,3,4,5,6,7,8};
-       swap(arr);
+      // swap(arr);
         System.out.println("\n" +
                 "Reverse the array");
         reverseArray(arr);
